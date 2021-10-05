@@ -742,3 +742,265 @@ body {
 }
 
 /* border styling css */
+
+.b-05 {
+    border: .5px solid var(--gray);
+}
+
+.b-1 {
+    border: 1px solid var(--gray);
+}
+
+.b-2 {
+    border: 2px solid var(--gray);
+}
+
+.b-3 {
+    border: 3px solid var(--gray)
+}
+
+.b-4 {
+    border: 4px solid var(--gray)
+}
+
+.b-5 {
+    border: 5px solid var(--gray)
+}
+
+.b-6 {
+    border: 6px solid var(--gray);
+}
+
+.bt-05 {
+    border: .5px solid var(--gray);
+}
+
+.bt-1 {
+    border: 1px solid var(--gray);
+}
+
+.bt-2 {
+    border: 2px solid var(--gray);
+}
+
+.bt-3 {
+    border: 3px solid var(--gray)
+}
+
+.bt-4 {
+    border: 4px solid var(--gray)
+}
+
+.bt-5 {
+    border: 5px solid var(--gray)
+}
+
+.bt-6 {
+    border: 6px solid var(--gray);
+}
+
+.br-05 {
+    border: .5px solid var(--gray);
+}
+
+.br-1 {
+    border: 1px solid var(--gray);
+}
+
+.br-2 {
+    border: 2px solid var(--gray);
+}
+
+.br-3 {
+    border: 3px solid var(--gray)
+}
+
+.br-4 {
+    border: 4px solid var(--gray)
+}
+
+.br-5 {
+    border: 5px solid var(--gray)
+}
+
+.br-6 {
+    border: 6px solid var(--gray);
+}
+
+.bb-05 {
+    border: .5px solid var(--gray);
+}
+
+.bb-1 {
+    border: 1px solid var(--gray);
+}
+
+.bb-2 {
+    border: 2px solid var(--gray);
+}
+
+.bb-3 {
+    border: 3px solid var(--gray)
+}
+
+.bb-4 {
+    border: 4px solid var(--gray)
+}
+
+.bb-5 {
+    border: 5px solid var(--gray)
+}
+
+.bb-6 {
+    border: 6px solid var(--gray);
+}
+
+.bl-05 {
+    border: .5px solid var(--gray);
+}
+
+.bl-1 {
+    border: 1px solid var(--gray);
+}
+
+.bl-2 {
+    border: 2px solid var(--gray);
+}
+
+.bl-3 {
+    border: 3px solid var(--gray)
+}
+
+.bl-4 {
+    border: 4px solid var(--gray)
+}
+
+.bl-5 {
+    border: 5px solid var(--gray)
+}
+
+.bl-6 {
+    border: 6px solid var(--gray);
+}
+
+/* border color styling */
+
+.b-white {
+    border-color: var(--white) !important;
+}
+
+.b-pink {
+    border-color: var(--pink) !important;
+}
+
+.b-red {
+    border-color: var(--red) !important;
+}
+
+.b-danger {
+    border-color: var(--danger) !important;
+}
+
+.b-warning {
+    border-color: var(--warning) !important;
+}
+
+.b-green {
+    border-color: var(--green) !important;
+}
+
+.b-l-green {
+    border-color: var(--teal) !important;
+}
+
+.b-success {
+    border-color: var(--success) !important;
+}
+
+.b-blue {
+    border-color: var(--blue) !important;
+}
+
+.b-primary {
+    border-color: var(--primary) !important;
+}
+
+.b-info {
+    border-color: var(--info) !important;
+}
+
+.b-orange {
+    border-color: var(--orange) !important;
+}
+
+.b-l-blue {
+    border-color: var(--indigo) !important;
+}
+
+.b-purple {
+    border-color: var(--purple) !important;
+}
+
+.b-light {
+    border-color: var(--light) !important;
+}
+
+.b-dark {
+    color: var(--dark) !important;
+}
+
+.b-black {
+    color: var(--black) !important;
+}
+
+.b-gray {
+    color: var(--gray) !important;
+}
+
+.b-main {
+    color: var(--mainColor) !important;
+}
+
+.b-mainLight {
+    color: var(--mainColorLight) !important;
+}
+
+.b-mainDark {
+    color: var(--mainColorDark) !important;
+}
+
+/* position styling css */
+
+.pos-absolute {
+    position: absolute !important;
+}
+
+.pos-fixed {
+    position: fixed !important;
+}
+
+.pos-relative {
+    position: relative !important;
+}
+
+.pos-static {
+    position: static !important;
+}
+
+.pos-sticky {
+    position: sticky !important;
+}
+
+.pos-inherit {
+    position: inherit !important;
+}
+
+.pos-initial {
+    position: initial !important;
+}
+
+.pos-unset {
+    position: unset !important;
+}
+
+/* pos controlling position */
